@@ -8,6 +8,9 @@ Clean structure, rounded corners, and adequate padding ensure a pleasant user ex
 Scalability:
 The RecyclerView supports dynamic task lists, making the app scalable as the number of tasks increases.
 
+third-party library integration.
+Room database and firebase
+
 https://github.com/user-attachments/assets/1b76a03e-c268-47e3-9b2e-57fa2be524cd
 
 ![Screenshot (106)](https://github.com/user-attachments/assets/2cc15950-f6d4-43f0-a0fc-921a89af1a7d)

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418428955406",
+    "project_id": "task-poojitha-mukkollu",
+    "storage_bucket": "task-poojitha-mukkollu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418428955406:android:c4608e68d8b53c0b1b055f",
+        "android_client_info": {
+          "package_name": "com.taskpoojithamukkollu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7SpX-LeorMjSzfUFniT83vdkR-sjybzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
